@@ -2,4 +2,4 @@
 List of algorithms in c++
 
 ### Sorting
-- [Quicksort](../sort/quicksort.hpp)
+- [Quicksort](../master/sort/quicksort.hpp)
