@@ -1,4 +1,4 @@
-sort.o: client.cpp quicksort.hpp ../stopwatch.hpp
+sort.o: client.cpp vector_utils.hpp quicksort.hpp ../stopwatch.hpp
 	g++ -o sort.o client.cpp
 
 clean:
